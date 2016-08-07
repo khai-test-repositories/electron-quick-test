@@ -1,0 +1,17 @@
+{
+  "name": "electron-quick-test",
+  "version": "0.0.0",
+  "description": "Just a test",
+  "main": "index.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "author": "",
+  "license": "WTFPL",
+  "dependencies": {
+    "x-iterable-base": "^1.0.2",
+    "just-try": "^2.0.1",
+    "electron-utils": "^0.0.0"
+  },
+  "devDependencies": {}
+}
